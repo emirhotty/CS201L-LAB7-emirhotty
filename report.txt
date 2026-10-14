@@ -1,0 +1,525 @@
+
+LISTING OF ADOPTIONS FOR: 3 / 2023
+NAME                   TYPE       BREED                               SEX                INTAKE AGE
+*Bluey                 Bird       Parakeet                            Unknown                  1.01
+*Reuben The Rooster    Bird       Chicken                             Intact Male              2.05
+*Alexa                 Cat        Domestic Medium Hair                Spayed Female            0.94
+*Alexie                Cat        Domestic Shorthair                  Spayed Female            0.94
+*Annie                 Cat        Domestic Shorthair                  Spayed Female            3.04
+*Arnie                 Cat        Domestic Shorthair                  Neutered Male            4.21
+*Arwen                 Cat        Domestic Shorthair                  Spayed Female            2.08
+*Baxter                Cat        Domestic Shorthair                  Neutered Male            2.02
+*Bernie                Cat        Domestic Longhair                   Neutered Male            0.31
+*Bill Murray           Cat        Domestic Shorthair                  Neutered Male            2.03
+*Biscotti              Cat        Domestic Shorthair                  Spayed Female            0.62
+*Blossom               Cat        Domestic Shorthair                  Spayed Female            1.17
+*Brownie               Cat        Domestic Shorthair                  Neutered Male            0.80
+*Buttercup             Cat        Domestic Shorthair                  Spayed Female            0.70
+*Caramel               Cat        Domestic Shorthair                  Neutered Male            1.13
+*Cashmere              Cat        Domestic Medium Hair                Neutered Male            3.03
+*Catfish               Cat        Domestic Shorthair Mix              Spayed Female            1.15
+*Chamoy                Cat        Domestic Shorthair                  Neutered Male            0.39
+*Chenille              Cat        Domestic Shorthair                  Spayed Female            0.19
+*Chianti               Cat        Domestic Shorthair                  Spayed Female            1.17
+*Cody                  Cat        Domestic Shorthair                  Neutered Male            0.37
+*Corduroy              Cat        Domestic Shorthair                  Neutered Male            0.19
+*Dahlia                Cat        Domestic Shorthair                  Spayed Female            1.26
+*Dill                  Cat        Domestic Shorthair                  Neutered Male            2.11
+*Dill                  Cat        Domestic Shorthair                  Neutered Male            2.15
+*Dj                    Cat        Domestic Medium Hair                Spayed Female            0.21
+*Dominique             Cat        Domestic Shorthair                  Spayed Female            1.44
+*Duchovny              Cat        Domestic Shorthair                  Neutered Male            2.49
+*Dumpling              Cat        Domestic Shorthair                  Spayed Female            2.11
+*Edie                  Cat        Domestic Longhair                   Spayed Female            2.26
+*Emma Stone            Cat        Domestic Shorthair                  Spayed Female            5.02
+*Ethel                 Cat        Domestic Shorthair                  Spayed Female            0.27
+*Felipe                Cat        Domestic Shorthair                  Neutered Male            4.01
+*Flannel               Cat        Domestic Shorthair                  Neutered Male            0.20
+*Gatsby                Cat        Domestic Shorthair                  Neutered Male            1.01
+*George                Cat        Domestic Shorthair                  Neutered Male            2.20
+*Georgio               Cat        Domestic Shorthair                  Neutered Male            1.06
+*Gertie                Cat        Domestic Longhair                   Spayed Female            0.28
+*Gladys Knight         Cat        Domestic Shorthair                  Spayed Female            0.27
+*Ivy                   Cat        Domestic Shorthair                  Spayed Female            1.09
+*Kat Von D             Cat        Domestic Shorthair                  Spayed Female            2.02
+*Kitty Canes           Cat        Domestic Shorthair                  Spayed Female           11.34
+*Mavis                 Cat        Domestic Shorthair Mix              Spayed Female            2.02
+*Misty                 Cat        Domestic Shorthair                  Spayed Female            0.51
+*Mitsy                 Cat        Domestic Shorthair                  Spayed Female            3.06
+*Mj                    Cat        Domestic Medium Hair                Spayed Female            0.21
+*Mouse                 Cat        Domestic Shorthair                  Neutered Male            1.57
+*Mr. Cat               Cat        Domestic Shorthair                  Neutered Male            2.07
+*Neve                  Cat        Siamese Mix                         Spayed Female            0.32
+*Octavia               Cat        Domestic Shorthair                  Spayed Female            1.18
+*Otter                 Cat        Domestic Shorthair                  Neutered Male            1.55
+*Parsnip               Cat        Domestic Shorthair                  Neutered Male            0.18
+*Pearl                 Cat        Domestic Medium Hair Mix            Spayed Female            5.69
+*Pedro                 Cat        Domestic Shorthair                  Neutered Male            2.06
+*Pookie                Cat        Domestic Medium Hair Mix            Spayed Female            2.00
+*Pot Pie               Cat        Domestic Shorthair                  Spayed Female            1.63
+*Radish                Cat        Domestic Shorthair                  Spayed Female            0.16
+*Ringo                 Cat        Domestic Shorthair                  Neutered Male            2.20
+*Shallot               Cat        Domestic Shorthair                  Spayed Female            0.17
+*Stephanie Jr          Cat        Domestic Shorthair                  Spayed Female            0.51
+*Steve Buscemi         Cat        Domestic Shorthair                  Neutered Male            2.03
+*Tom Ford              Cat        Domestic Shorthair                  Neutered Male            2.02
+*Velvet                Cat        Domestic Shorthair                  Spayed Female            0.20
+*Weird Al              Cat        Domestic Shorthair                  Neutered Male            1.02
+*Xin Yi                Cat        Domestic Shorthair                  Spayed Female            0.86
+*Zac Efron             Cat        Domestic Shorthair                  Neutered Male            0.50
+*Zorky                 Cat        Domestic Shorthair                  Neutered Male            2.09
+A870504                Cat        Domestic Shorthair                  Spayed Female            0.46
+A873247                Cat        Domestic Medium Hair                Neutered Male            0.24
+A873248                Cat        Domestic Medium Hair                Spayed Female            0.24
+A874176                Cat        Siamese                             Neutered Male            0.50
+A874482                Cat        Domestic Shorthair                  Neutered Male            0.30
+A874539                Cat        Domestic Shorthair                  Neutered Male            0.38
+A874577                Cat        Domestic Shorthair                  Spayed Female            2.06
+A874687                Cat        Domestic Shorthair                  Spayed Female            0.18
+A874688                Cat        Domestic Shorthair                  Neutered Male            0.19
+A874689                Cat        Domestic Shorthair                  Spayed Female            0.17
+A875304                Cat        Domestic Shorthair                  Spayed Female            0.35
+A875391                Cat        Domestic Shorthair                  Spayed Female            0.25
+A875393                Cat        Domestic Shorthair                  Spayed Female            2.04
+A875457                Cat        Domestic Shorthair                  Spayed Female            3.01
+A875571                Cat        Domestic Shorthair                  Neutered Male            4.01
+A875657                Cat        Domestic Shorthair                  Spayed Female            1.01
+A875777                Cat        Domestic Shorthair Mix              Spayed Female            0.19
+A875778                Cat        Domestic Shorthair Mix              Neutered Male            0.19
+A875779                Cat        Domestic Shorthair Mix              Neutered Male            0.19
+A875780                Cat        Domestic Shorthair Mix              Neutered Male            0.19
+A875781                Cat        Domestic Shorthair Mix              Spayed Female            0.19
+A875782                Cat        Domestic Shorthair Mix              Spayed Female            0.19
+A875793                Cat        Domestic Shorthair                  Spayed Female            0.75
+A875822                Cat        Domestic Longhair                   Neutered Male            0.26
+A875823                Cat        Domestic Shorthair                  Neutered Male            0.26
+A875824                Cat        Domestic Longhair                   Neutered Male            0.26
+A875824                Cat        Domestic Longhair                   Neutered Male            0.27
+A875833                Cat        Siamese                             Spayed Female            3.05
+A875894                Cat        Domestic Shorthair                  Spayed Female            3.01
+A875918                Cat        Domestic Shorthair Mix              Spayed Female            0.24
+A875919                Cat        Domestic Shorthair Mix              Neutered Male            0.24
+A876108                Cat        Domestic Longhair                   Neutered Male            0.30
+A876191                Cat        Domestic Shorthair                  Neutered Male            1.01
+A876192                Cat        Domestic Shorthair                  Neutered Male            1.01
+A876250                Cat        Domestic Shorthair                  Neutered Male            3.02
+A876404                Cat        Domestic Shorthair                  Spayed Female            0.85
+A876559                Cat        Domestic Shorthair                  Spayed Female            0.84
+A876915                Cat        Domestic Shorthair                  Spayed Female            2.02
+A876927                Cat        Domestic Shorthair Mix              Neutered Male            0.34
+A876961                Cat        Domestic Medium Hair                Spayed Female            0.34
+A877111                Cat        Domestic Shorthair                  Neutered Male            1.01
+A877420                Cat        Domestic Shorthair                  Spayed Female            2.01
+Apple                  Cat        Domestic Shorthair                  Spayed Female            0.86
+Apple                  Cat        Domestic Shorthair                  Spayed Female            3.52
+Beauty                 Cat        Domestic Shorthair                  Spayed Female            8.27
+Blanco                 Cat        Siamese Mix                         Neutered Male            4.18
+Bowie                  Cat        Domestic Longhair                   Neutered Male            1.17
+Buddy                  Cat        Domestic Longhair                   Neutered Male           10.41
+Butternut              Cat        Domestic Shorthair                  Spayed Female            1.55
+Caly                   Cat        Domestic Shorthair                  Spayed Female            0.68
+Carlita                Cat        Domestic Shorthair Mix              Spayed Female            2.01
+Charlie                Cat        Domestic Shorthair                  Neutered Male            0.26
+Charlie                Cat        Domestic Shorthair                  Neutered Male            0.50
+Clementine             Cat        Domestic Shorthair                  Spayed Female            0.50
+Cleopatra              Cat        Domestic Shorthair                  Spayed Female            4.33
+Dooley                 Cat        Domestic Shorthair Mix              Neutered Male           10.86
+Eagle                  Cat        Domestic Shorthair Mix              Neutered Male            2.01
+Fanta                  Cat        Domestic Longhair Mix               Neutered Male           10.86
+Frank                  Cat        Domestic Shorthair Mix              Neutered Male            5.89
+Hilary                 Cat        Domestic Shorthair                  Spayed Female            1.60
+Jasper                 Cat        Domestic Shorthair                  Neutered Male            2.01
+Kawa                   Cat        Domestic Shorthair Mix              Spayed Female            1.03
+Kitty                  Cat        Domestic Shorthair                  Spayed Female            2.02
+Lady                   Cat        Domestic Medium Hair                Spayed Female            1.17
+Lana                   Cat        Siamese Mix                         Spayed Female            1.02
+Leo X                  Cat        Domestic Medium Hair                Neutered Male            1.02
+Lola                   Cat        Domestic Shorthair                  Spayed Female            1.02
+Lucy                   Cat        Domestic Shorthair                  Spayed Female            1.02
+Mew-Mew                Cat        Domestic Shorthair                  Neutered Male            6.03
+Milo                   Cat        Domestic Medium Hair                Neutered Male            0.50
+Minx                   Cat        Domestic Shorthair                  Neutered Male            6.20
+Moonshine              Cat        Domestic Shorthair                  Neutered Male            0.35
+Mya                    Cat        Snowshoe Mix                        Spayed Female           10.01
+Nightshade             Cat        Domestic Shorthair                  Spayed Female            0.30
+Princess               Cat        Domestic Shorthair                  Spayed Female            2.05
+Princess               Cat        Domestic Shorthair Mix              Spayed Female            2.01
+Reece                  Cat        Domestic Shorthair                  Spayed Female            2.06
+Sailoh                 Cat        Domestic Shorthair                  Spayed Female            1.76
+Sallymae               Cat        Domestic Shorthair                  Spayed Female            0.69
+Stella                 Cat        Domestic Shorthair                  Spayed Female            0.55
+Totoro                 Cat        Domestic Shorthair                  Spayed Female            1.01
+*Antimony              Dog        Labrador Retriever Mix              Spayed Female            0.16
+*Artemis               Dog        German Shepherd                     Spayed Female            0.35
+*Aurora                Dog        Siberian Husky Mix                  Spayed Female            0.55
+*Aurora                Dog        Labrador Retriever/Plott Hound      Spayed Female            0.18
+*Ava                   Dog        Labrador Retriever/Great Pyrenees   Spayed Female            1.77
+*Baby Yoda             Dog        Pit Bull                            Neutered Male            3.06
+*Bandit                Dog        German Shorthair Pointer Mix        Neutered Male            0.34
+*Basil                 Dog        Australian Cattle Dog Mix           Spayed Female            0.21
+*Bear                  Dog        Plott Hound                         Neutered Male            3.50
+*Bernard               Dog        Boxer                               Neutered Male            2.18
+*Bertrum               Dog        German Shepherd Mix                 Neutered Male            0.88
+*Betsy                 Dog        Wire Hair Fox Terrier/Dachshund     Spayed Female            0.85
+*Billie Jo             Dog        Treeing Walker Coonhound Mix        Spayed Female            0.22
+*Billy                 Dog        Catahoula/German Shepherd           Neutered Male            0.68
+*Blue                  Dog        Labrador Retriever                  Neutered Male            0.16
+*Blue                  Dog        German Shepherd/Alaskan Husky       Spayed Female            0.51
+*Blueberry             Dog        Labrador Retriever Mix              Spayed Female            0.16
+*Bob Barker            Dog        Entlebucher Mix                     Neutered Male            1.05
+*Boopsie               Dog        Labrador Retriever/German Shepherd  Spayed Female            2.12
+*Borf                  Dog        Pit Bull Mix                        Neutered Male            5.41
+*Boysenberry           Dog        Labrador Retriever Mix              Spayed Female            0.18
+*Bradley               Dog        German Shepherd Mix                 Neutered Male            0.85
+*Brownie               Dog        German Shorthair Pointer            Spayed Female            0.24
+*Bulda                 Dog        Border Collie/Chow Chow             Spayed Female            1.57
+*Carmelo               Dog        German Shepherd Mix                 Neutered Male            0.70
+*Carnie                Dog        Australian Cattle Dog Mix           Neutered Male            0.24
+*Chap                  Dog        Labrador Retriever/Border Collie    Neutered Male            0.17
+*Charlie               Dog        German Shepherd Mix                 Spayed Female            1.07
+*Charlotte             Dog        Australian Shepherd Mix             Spayed Female            0.18
+*Cheerio               Dog        Australian Shepherd                 Spayed Female            0.18
+*Cheri                 Dog        German Shepherd Mix                 Spayed Female            0.57
+*Chilly                Dog        Labrador Retriever/Alaskan Husky    Neutered Male            0.64
+*Chuck E. Cheese       Dog        Pit Bull Mix                        Neutered Male            0.17
+*Cleopatra             Dog        Golden Retriever/Labrador Retriever Spayed Female            2.06
+*Coal                  Dog        Rat Terrier Mix                     Neutered Male            0.18
+*Cobalt                Dog        Labrador Retriever Mix              Neutered Male            0.20
+*Cooper                Dog        Collie Smooth Mix                   Neutered Male            0.18
+*Corndog               Dog        Staffordshire Mix                   Neutered Male            3.23
+*Cosmic                Dog        Pit Bull/Labrador Retriever         Neutered Male            1.09
+*Cranberry             Dog        Labrador Retriever Mix              Spayed Female            0.18
+*Creole                Dog        Australian Cattle Dog               Spayed Female            0.22
+*Crisp                 Dog        Belgian Malinois                    Spayed Female            0.26
+*Cronin                Dog        Australian Cattle Dog Mix           Neutered Male            0.22
+*D'Angelo              Dog        Dachshund Mix                       Neutered Male            0.34
+*Daisy                 Dog        German Shepherd                     Spayed Female            0.17
+*Dakota                Dog        Siberian Husky                      Neutered Male            2.23
+*Dan                   Dog        Labrador Retriever Mix              Neutered Male            0.18
+*Denver                Dog        Black Mouth Cur/Plott Hound         Spayed Female            0.18
+*Diddy                 Dog        English Pointer Mix                 Neutered Male            1.09
+*Drac                  Dog        German Shepherd/Labrador Retriever  Neutered Male            0.18
+*Eleanor               Dog        Alaskan Husky                       Spayed Female            2.03
+*Eloise                Dog        Labrador Retriever                  Spayed Female            2.03
+*Farrah                Dog        Chihuahua Shorthair Mix             Intact Female            5.10
+*Finn                  Dog        Chihuahua Shorthair                 Neutered Male            0.22
+*Fluke                 Dog        Siberian Husky                      Neutered Male            0.19
+*Fritz                 Dog        Siberian Husky                      Spayed Female            1.03
+*Gemini                Dog        German Shepherd Mix                 Spayed Female            2.02
+*George                Dog        Labrador Retriever Mix              Neutered Male            0.17
+*Ghost                 Dog        Great Pyrenees                      Neutered Male            2.06
+*Gillis                Dog        Australian Cattle Dog Mix           Neutered Male            0.22
+*Gizmo                 Dog        Labrador Retriever Mix              Neutered Male            0.17
+*Griner                Dog        Australian Cattle Dog               Neutered Male            0.25
+*Grover                Dog        Pit Bull                            Neutered Male            2.21
+*Gumball               Dog        Pit Bull                            Neutered Male            2.20
+*Gus                   Dog        Australian Cattle Dog/Catahoula     Neutered Male            0.18
+*Hadley                Dog        Rat Terrier Mix                     Spayed Female            0.20
+*Hank                  Dog        Australian Cattle Dog/Wire Hair Fox Terrier Neutered Male            1.56
+*Harold                Dog        Labrador Retriever/Boxer            Neutered Male            1.46
+*Haven                 Dog        Rat Terrier Mix                     Spayed Female            0.21
+*Hazel                 Dog        American Staffordshire Terrier Mix  Spayed Female            2.16
+*Hector                Dog        Rat Terrier Mix                     Neutered Male            0.20
+*Home Slice            Dog        Labrador Retriever/Pit Bull         Spayed Female            0.15
+*Honeybee              Dog        English Coonhound Mix               Spayed Female            3.60
+*Hope                  Dog        Rat Terrier Mix                     Spayed Female            0.24
+*Howard                Dog        Labrador Retriever                  Neutered Male            0.16
+*Huckleberry           Dog        Labrador Retriever Mix              Neutered Male            0.18
+*Hudson                Dog        Beagle/Rat Terrier                  Neutered Male            0.20
+*Huxley                Dog        Rat Terrier Mix                     Neutered Male            0.20
+*Ivy                   Dog        Pit Bull                            Spayed Female            1.07
+*Jake                  Dog        Pointer Mix                         Neutered Male            0.18
+*Jc                    Dog        Airedale Terrier Mix                Neutered Male            0.20
+*Jebediah              Dog        Treeing Walker Coonhound Mix        Neutered Male            0.22
+*Jessie                Dog        Siberian Husky                      Spayed Female            3.13
+*Job                   Dog        German Shepherd Mix                 Neutered Male            1.17
+*Jolly R.              Dog        German Shepherd Mix                 Neutered Male            0.17
+*Joy                   Dog        Rat Terrier Mix                     Spayed Female            0.18
+*Kane                  Dog        Pit Bull                            Neutered Male            1.10
+*Kat                   Dog        Labrador Retriever/Pit Bull         Spayed Female            0.43
+*Kirby                 Dog        Pit Bull Mix                        Neutered Male            8.72
+*Kita                  Dog        German Shepherd Mix                 Spayed Female            2.20
+*Lala                  Dog        Wire Hair Fox Terrier               Spayed Female            0.26
+*Lance Bass            Dog        Airedale Terrier Mix                Neutered Male            0.20
+*Lantana               Dog        German Shepherd                     Neutered Male            0.16
+*Leo                   Dog        Pit Bull Mix                        Neutered Male            2.34
+*Lexi                  Dog        German Shepherd                     Spayed Female            3.04
+*Lina                  Dog        Rat Terrier Mix                     Spayed Female            0.31
+*Lincoln               Dog        Pit Bull                            Neutered Male            1.71
+*Little Caesar         Dog        Pit Bull Mix                        Neutered Male            0.18
+*Lobo                  Dog        German Shepherd                     Neutered Male            2.70
+*Lord Byron            Dog        Labrador Retriever/Siberian Husky   Neutered Male            1.09
+*Lorraine              Dog        German Shepherd Mix                 Spayed Female            0.53
+*Lucia                 Dog        Labrador Retriever                  Spayed Female            0.16
+*Lucien                Dog        Labrador Retriever/Black Mouth Cur  Neutered Male            1.11
+*Maisy                 Dog        Labrador Retriever/Anatol Shepherd  Spayed Female            0.18
+*Maja                  Dog        Labrador Retriever Mix              Spayed Female            0.18
+*Mandy                 Dog        Chihuahua Shorthair                 Spayed Female            6.14
+*Margot                Dog        Chihuahua Shorthair                 Intact Female           12.30
+*Marla                 Dog        German Shepherd Mix                 Spayed Female            2.02
+*Marshmallow           Dog        German Shepherd Mix                 Spayed Female            0.17
+*Marty                 Dog        Rat Terrier/Dachshund               Neutered Male            2.02
+*Mercury               Dog        Labrador Retriever Mix              Neutered Male            0.23
+*Merry                 Dog        German Shepherd                     Spayed Female            0.86
+*Mika                  Dog        Labrador Retriever                  Spayed Female            0.19
+*Mike Wazowski         Dog        Pit Bull                            Neutered Male            0.72
+*Milkbone              Dog        American Bulldog Mix                Neutered Male            2.55
+*Milky Way             Dog        German Shepherd Mix                 Spayed Female            0.15
+*Mira                  Dog        Plott Hound Mix                     Spayed Female            1.57
+*Mod                   Dog        Labrador Retriever/Pit Bull         Spayed Female            0.18
+*Monarch               Dog        Great Pyrenees/Siberian Husky       Spayed Female            0.20
+*Munch                 Dog        Chihuahua Shorthair                 Neutered Male            0.25
+*Murray                Dog        Labrador Retriever                  Neutered Male            0.16
+*Nova                  Dog        American Pit Bull Terrier           Spayed Female            1.02
+*Oakleigh              Dog        Siberian Husky                      Spayed Female            0.17
+*Octavia               Dog        Siberian Husky/German Shepherd      Spayed Female            0.18
+*Oli                   Dog        German Shepherd/Siberian Husky      Neutered Male            2.08
+*Oliver                Dog        Australian Cattle Dog Mix           Neutered Male            2.02
+*Olivia                Dog        Siberian Husky/German Shepherd      Spayed Female            0.17
+*Ophelia               Dog        Plott Hound/Dachshund               Spayed Female            0.27
+*Ophelia               Dog        Siberian Husky/German Shepherd      Spayed Female            0.17
+*Orion                 Dog        Siberian Husky                      Neutered Male            0.17
+*Oscar                 Dog        Siberian Husky Mix                  Neutered Male            0.17
+*Otter                 Dog        Boxer Mix                           Neutered Male            0.16
+*Owen                  Dog        Labrador Retriever                  Neutered Male            0.19
+*Paddle                Dog        Labrador Retriever                  Spayed Female            0.19
+*Paige                 Dog        Labrador Retriever/Border Collie    Spayed Female            0.17
+*Peaches               Dog        Australian Cattle Dog/Pembroke Welsh Corgi Spayed Female            3.05
+*Pepper                Dog        German Shepherd                     Spayed Female            4.39
+*Philly                Dog        Australian Shepherd Mix             Neutered Male            0.18
+*Phoebe                Dog        Labrador Retriever/Border Collie    Spayed Female            0.18
+*Pocket                Dog        Rottweiler Mix                      Spayed Female            1.54
+*Prue                  Dog        Labrador Retriever/Border Collie    Spayed Female            0.17
+*Ramen                 Dog        Australian Shepherd Mix             Spayed Female            0.16
+*Raspberry             Dog        Labrador Retriever Mix              Neutered Male            0.19
+*Raven                 Dog        German Shepherd Mix                 Spayed Female            2.25
+*Ren                   Dog        Standard Schnauzer Mix              Spayed Female            0.16
+*Reya                  Dog        Standard Schnauzer Mix              Spayed Female            0.23
+*Rhi                   Dog        Australian Shepherd Mix             Spayed Female            0.26
+*Ricecakes             Dog        Standard Schnauzer Mix              Neutered Male            0.15
+*Ricko                 Dog        Rottweiler Mix                      Neutered Male            2.06
+*Rigatoni              Dog        Australian Shepherd Mix             Spayed Female            0.16
+*Ringo                 Dog        Standard Schnauzer Mix              Neutered Male            0.18
+*Rio                   Dog        Standard Schnauzer Mix              Spayed Female            0.17
+*Ripple                Dog        Standard Schnauzer Mix              Neutered Male            0.18
+*Rochester             Dog        Australian Shepherd Mix             Neutered Male            0.19
+*Roger                 Dog        German Shepherd/Black/Tan Hound     Neutered Male            1.38
+*Rome                  Dog        Australian Shepherd/Plott Hound     Neutered Male            0.18
+*Rory                  Dog        Standard Schnauzer Mix              Spayed Female            0.17
+*Rose                  Dog        Border Terrier                      Spayed Female            2.09
+*Rosemary              Dog        Siberian Husky Mix                  Spayed Female            0.25
+*Rosita                Dog        German Shepherd                     Spayed Female            0.16
+*Rowdy                 Dog        Border Terrier Mix                  Neutered Male            0.15
+*Roxie                 Dog        Rat Terrier Mix                     Spayed Female            1.03
+*Rustle                Dog        Standard Schnauzer Mix              Neutered Male            0.15
+*Shaq                  Dog        Great Pyrenees/Anatol Shepherd      Neutered Male            2.19
+*Sheba                 Dog        Great Pyrenees Mix                  Spayed Female            1.33
+*Skipper               Dog        Great Pyrenees/Siberian Husky       Spayed Female            0.18
+*Snow                  Dog        Rat Terrier Mix                     Neutered Male            0.18
+*Spencer               Dog        Labrador Retriever Mix              Neutered Male            2.09
+*Spencer               Dog        Labrador Retriever/Pit Bull         Neutered Male            0.43
+*Steve Martin          Dog        Labrador Retriever                  Neutered Male            0.21
+*Strawberry            Dog        Labrador Retriever Mix              Spayed Female            0.16
+*Sunny                 Dog        Labrador Retriever                  Neutered Male            0.17
+*Superdawg             Dog        Pit Bull                            Neutered Male            2.22
+*Swallowtail           Dog        Great Pyrenees/Siberian Husky       Neutered Male            0.20
+*Talula                Dog        Pit Bull                            Spayed Female            0.48
+*Tanner                Dog        Treeing Walker Coonhound Mix        Neutered Male            2.36
+*Tin                   Dog        Labrador Retriever Mix              Neutered Male            0.21
+*Titanium              Dog        Labrador Retriever Mix              Neutered Male            0.17
+*Titanium              Dog        Labrador Retriever Mix              Neutered Male            0.17
+*Trey                  Dog        Rottweiler Mix                      Neutered Male            2.06
+*Tux                   Dog        Rat Terrier Mix                     Neutered Male            0.18
+*Twitch                Dog        Labrador Retriever Mix              Neutered Male            0.18
+*Twizzler              Dog        German Shepherd Mix                 Neutered Male            0.15
+*Vera                  Dog        Plott Hound Mix                     Spayed Female            1.10
+*Wally                 Dog        Pit Bull                            Neutered Male            2.95
+*Wendy                 Dog        Australian Cattle Dog Mix           Spayed Female            0.17
+*Wraith                Dog        Pit Bull Mix                        Spayed Female            0.31
+*Zed                   Dog        Blue Lacy                           Neutered Male            0.18
+*Zinc                  Dog        Labrador Retriever Mix              Neutered Male            0.17
+*Zoona                 Dog        German Shepherd                     Spayed Female            2.08
+A872716                Dog        Siberian Husky/Labrador Retriever   Neutered Male            0.17
+A872717                Dog        Siberian Husky                      Neutered Male            0.16
+A875422                Dog        Chihuahua Shorthair                 Spayed Female            0.20
+A875477                Dog        Dachshund/Chihuahua Shorthair       Neutered Male            3.01
+A875541                Dog        English Pointer                     Neutered Male            0.61
+A875635                Dog        Labrador Retriever                  Neutered Male            0.21
+A875636                Dog        Labrador Retriever                  Spayed Female            0.21
+A875715                Dog        Pit Bull/Siberian Husky             Neutered Male            2.01
+A875904                Dog        German Shepherd                     Neutered Male            0.21
+A875933                Dog        Labrador Retriever Mix              Spayed Female            0.16
+A875940                Dog        German Shepherd Mix                 Spayed Female            0.16
+A875970                Dog        Catahoula/Labrador Retriever        Neutered Male            0.33
+A876022                Dog        Chihuahua Shorthair                 Spayed Female            0.19
+A876023                Dog        Chihuahua Shorthair                 Neutered Male            0.25
+A876043                Dog        Great Pyrenees                      Neutered Male            0.18
+A876089                Dog        Rat Terrier Mix                     Neutered Male            0.19
+A876228                Dog        Chihuahua Shorthair                 Neutered Male            0.18
+A876355                Dog        Border Terrier Mix                  Neutered Male            2.01
+A876508                Dog        Bernese Mountain Dog Mix            Spayed Female            0.18
+A876802                Dog        Pit Bull Mix                        Spayed Female            0.18
+A876885                Dog        Chihuahua Shorthair                 Neutered Male            2.02
+A877007                Dog        Labrador Retriever                  Spayed Female            0.18
+A877242                Dog        Border Collie Mix                   Spayed Female            0.18
+Ace                    Dog        Pit Bull/Labrador Retriever         Neutered Male            2.15
+Alfie                  Dog        German Shepherd Mix                 Neutered Male            8.12
+Ali                    Dog        Rat Terrier Mix                     Spayed Female            0.18
+Alyx                   Dog        Rat Terrier Mix                     Spayed Female            0.21
+Apollo                 Dog        Standard Schnauzer Mix              Neutered Male            0.19
+Arlo                   Dog        Pointer Mix                         Neutered Male            0.79
+Astra                  Dog        Doberman Pinsch Mix                 Spayed Female            0.98
+Augustas               Dog        Pointer Mix                         Neutered Male            0.47
+Baldur                 Dog        German Shepherd                     Neutered Male            5.13
+Baldur                 Dog        German Shepherd                     Neutered Male            5.16
+Bandy                  Dog        Pit Bull/Border Collie              Spayed Female            1.02
+Bane                   Dog        Pit Bull                            Neutered Male            8.01
+Baxter                 Dog        Labrador Retriever/German Shepherd  Neutered Male            0.61
+Bear                   Dog        Labrador Retriever Mix              Neutered Male            7.35
+Bell                   Dog        German Shepherd                     Spayed Female            4.81
+Bell                   Dog        German Shepherd                     Spayed Female            4.84
+Bellatrix              Dog        Australian Cattle Dog/Australian Kelpie Spayed Female            0.19
+Bessie Moo             Dog        Australian Cattle Dog Mix           Spayed Female            1.15
+Blue                   Dog        Toy Fox Terrier                     Spayed Female            0.19
+Boe                    Dog        Border Collie/Labrador Retriever    Neutered Male            1.54
+Booji                  Dog        Dalmatian Mix                       Neutered Male            5.23
+Cabbage                Dog        Pit Bull                            Spayed Female            2.11
+Capitan                Dog        Belgian Malinois                    Neutered Male            0.26
+Capulina               Dog        Chihuahua Shorthair                 Spayed Female            1.01
+Cash                   Dog        Pointer/Labrador Retriever          Neutered Male            1.33
+Castiel                Dog        Pit Bull Mix                        Neutered Male            2.27
+Cheeky-Lou             Dog        Yorkshire Terrier Mix               Spayed Female            2.12
+Chica                  Dog        Labrador Retriever Mix              Spayed Female            3.90
+Chico                  Dog        Staffordshire Mix                   Neutered Male            2.09
+Chino                  Dog        Bulldog Mix                         Neutered Male            1.89
+Choco                  Dog        Chihuahua Shorthair                 Neutered Male            1.02
+Clue                   Dog        German Shepherd Mix                 Neutered Male            0.69
+Coco                   Dog        Miniature Schnauzer                 Neutered Male            1.02
+Dasher                 Dog        Pointer Mix                         Neutered Male            2.38
+Dina                   Dog        Miniature Pinscher Mix              Spayed Female            0.35
+Evie                   Dog        Bernese Mountain Dog Mix            Spayed Female            0.18
+Fonzie                 Dog        German Shepherd                     Neutered Male            2.05
+Frieda                 Dog        Labrador Retriever/Border Collie    Spayed Female            0.08
+Gaia                   Dog        Labrador Retriever Mix              Spayed Female            0.21
+Gibbs                  Dog        German Shepherd Mix                 Neutered Male            4.13
+Gidget                 Dog        Pit Bull Mix                        Spayed Female            2.03
+Graceland              Dog        Doberman Pinsch/Labrador Retriever  Spayed Female            2.04
+Gypsy                  Dog        American Bulldog Mix                Spayed Female            2.09
+Heidi                  Dog        Jack Russell Terrier/Chihuahua Shorthair Spayed Female           12.38
+Honey                  Dog        Border Collie Mix                   Spayed Female            0.70
+Honeydew               Dog        Pit Bull                            Spayed Female            1.79
+Hulk                   Dog        Australian Cattle Dog/Siberian Husky Neutered Male            3.70
+Jimmy                  Dog        German Shepherd                     Neutered Male            6.00
+Kaser                  Dog        German Shepherd Mix                 Intact Male              0.16
+Kenny                  Dog        Miniature Schnauzer                 Neutered Male            1.01
+Koda                   Dog        Siberian Husky Mix                  Spayed Female            2.41
+Koda                   Dog        Siberian Husky                      Neutered Male            2.35
+Kolbot                 Dog        Australian Cattle Dog Mix           Neutered Male            0.22
+Leola                  Dog        German Shepherd                     Spayed Female            0.61
+Lucy                   Dog        Labrador Retriever Mix              Spayed Female           10.43
+Luna                   Dog        Australian Cattle Dog Mix           Spayed Female            0.51
+Luna                   Dog        Akbash                              Spayed Female            2.03
+Manchas                Dog        Black/Tan Hound Mix                 Neutered Male            4.81
+Manchas                Dog        Pit Bull                            Spayed Female            1.07
+Manolo                 Dog        Beagle Mix                          Neutered Male            2.12
+Mara                   Dog        Australian Cattle Dog               Spayed Female            0.73
+Marley                 Dog        Black Mouth Cur/German Shepherd     Spayed Female            0.26
+Max                    Dog        American Bulldog                    Neutered Male            1.02
+Maxine                 Dog        Border Collie Mix                   Spayed Female            6.07
+Meatloaf               Dog        Labrador Retriever/Pembroke Welsh Corgi Neutered Male            1.69
+Midnight               Dog        Pit Bull Mix                        Spayed Female            2.55
+Milo                   Dog        German Shepherd                     Neutered Male            9.01
+Minimi                 Dog        Labrador Retriever/Anatol Shepherd  Neutered Male            0.18
+Moose                  Dog        Italian Greyhound/Rat Terrier       Neutered Male            0.21
+Moreno                 Dog        Anatol Shepherd/Great Pyrenees      Neutered Male            0.78
+Mouse                  Dog        Cane Corso                          Neutered Male            0.47
+Mylo                   Dog        Labrador Retriever                  Neutered Male            0.18
+Nala                   Dog        German Shepherd Mix                 Spayed Female            0.68
+Nyla                   Dog        Siberian Husky                      Spayed Female            2.03
+Ozzie                  Dog        Miniature Schnauzer                 Intact Female            1.00
+Peaches                Dog        Rat Terrier                         Spayed Female            0.41
+Pebbles                Dog        Beagle/Catahoula                    Spayed Female            3.03
+Persephone             Dog        Siberian Husky Mix                  Spayed Female            0.22
+Poignee                Dog        Pit Bull                            Neutered Male            0.18
+Poppy                  Dog        Australian Cattle Dog Mix           Spayed Female            0.24
+Pretty Girl            Dog        Pit Bull                            Spayed Female            5.03
+Princess               Dog        Dachshund Mix                       Spayed Female            4.02
+Pumpkin                Dog        Blue Lacy Mix                       Spayed Female            1.95
+Queen                  Dog        Pit Bull Mix                        Spayed Female            0.73
+Rambo                  Dog        German Shepherd                     Neutered Male            0.20
+Raven                  Dog        Australian Kelpie/Border Collie     Spayed Female            1.53
+Remi                   Dog        Australian Cattle Dog Mix           Spayed Female            0.24
+Remy                   Dog        German Shepherd                     Spayed Female            0.66
+Ridley                 Dog        Pit Bull                            Spayed Female            1.30
+Rocky                  Dog        German Shepherd Mix                 Neutered Male            0.22
+Roki                   Dog        German Shepherd Mix                 Neutered Male            0.16
+Rose                   Dog        Bull Terrier/Whippet                Spayed Female            1.06
+Royalty                Dog        German Shepherd Mix                 Spayed Female            0.66
+Royalty                Dog        Labrador Retriever Mix              Spayed Female            2.44
+Ruby                   Dog        Carolina Dog Mix                    Spayed Female            0.94
+Sasha                  Dog        German Shepherd Mix                 Spayed Female            0.66
+Scar                   Dog        St. Bernard Smooth Coat             Neutered Male            0.20
+Scout                  Dog        German Shepherd Mix                 Neutered Male            0.94
+Shadow                 Dog        Labrador Retriever Mix              Spayed Female            4.00
+Shadow                 Dog        German Shepherd Mix                 Neutered Male            0.16
+Shiloh                 Dog        Pit Bull                            Spayed Female            0.25
+Simba                  Dog        Great Pyrenees Mix                  Neutered Male            0.24
+Skipper                Dog        Airedale Terrier Mix                Neutered Male            0.20
+Smokey                 Dog        Australian Cattle Dog/Labrador Retriever Neutered Male            0.70
+Snowball               Dog        Siberian Husky                      Spayed Female            5.62
+Snuggles               Dog        Miniature Schnauzer                 Neutered Male            1.01
+Spike                  Dog        Pit Bull Mix                        Neutered Male            2.50
+Squiggles              Dog        Beagle Mix                          Intact Female           10.09
+Stanley                Dog        German Shorthair Pointer            Neutered Male            0.26
+Thalia                 Dog        Siberian Husky Mix                  Spayed Female            0.26
+Theodore               Dog        Pit Bull                            Neutered Male            2.19
+Tipsy                  Dog        Australian Cattle Dog/German Shepherd Spayed Female            4.20
+Toph                   Dog        Plott Hound/Dachshund               Spayed Female            0.36
+Toph                   Dog        Plott Hound/Dachshund               Spayed Female            0.38
+Tramp                  Dog        Miniature Schnauzer                 Spayed Female            1.01
+Truffle                Dog        Siberian Husky/German Shepherd      Neutered Male            0.18
+Venus                  Dog        Australian Shepherd Mix             Spayed Female            0.18
+Wilco                  Dog        Alaskan Husky/German Shepherd       Spayed Female            0.21
+Yoshi                  Dog        Pit Bull                            Spayed Female            2.21
+Zara                   Dog        Rat Terrier Mix                     Spayed Female            0.21
+Zia                    Dog        Siberian Husky Mix                  Spayed Female            0.25
+*Bongo                 Other      Rabbit Sh                           Unknown                  1.01
+*Pepita                Other      Rabbit Sh/Dwarf Hotot               Intact Female            0.70
+Bun                    Other      Lionhead                            Unknown                  4.01
+
+
+LISTING OF AVAILABLE PETS
+NAME                   TYPE       BREED                               SEX                INTAKE AGE
+A874518                Bird       Waxwing                             Unknown                  1.00
+*Raja                  Cat        Domestic Shorthair Mix              Intact Female            0.12
+A904825                Cat        Domestic Shorthair Mix              Intact Female            0.12
+A900468                Cat        Domestic Shorthair                  Unknown                  0.00
+A900469                Cat        Domestic Shorthair                  Unknown                  0.00
+A890645                Cat        Siamese Mix                         Spayed Female            0.26
+Katniss Everbean Horton Cat        Domestic Shorthair                  Spayed Female            0.27
+*Butters               Cat        Domestic Shorthair                  Neutered Male            3.87
+Torby Girl             Cat        Domestic Shorthair                  Spayed Female           13.63
+*Snow                  Dog        Great Pyrenees                      Neutered Male            0.52
+Perla                  Dog        Siberian Husky                      Intact Female            2.03
+Shalimar               Dog        Pekingese                           Unknown                  1.00
+A894378                Dog        Cairn Terrier/Chihuahua Shorthair   Spayed Female            2.03
+Fb Mcgee               Dog        Mastiff Mix                         Neutered Male            2.02
+Zeus                   Dog        Doberman Pinsch Mix                 Intact Male              2.00
+A903014                Dog        American Bulldog Mix                Unknown                  5.00
+A896559                Other      Coyote                              Unknown                  2.18
+
+
+SEARCH RESULTS FOR: bubbles / dog
+NAME                   TYPE       BREED                               SEX                INTAKE AGE
+Bubbles                Dog        Border Terrier                      Neutered Male            0.35
+*Bubbles               Dog        Pit Bull Mix                        Spayed Female            0.16
+*Bubbles               Dog        Labrador Retriever Mix              Spayed Female            2.80
+Bubbles                Dog        Black Mouth Cur/German Shepherd     Spayed Female            2.63
+Bubbles                Dog        Pit Bull                            Intact Female            3.55
+Bubbles                Dog        Chihuahua Shorthair Mix             Spayed Female           12.18
+Bubbles                Dog        Maltese                             Intact Female           16.00
+
+
+SEARCH RESULTS FOR: invalid name / Hyena
+No pets found matching this description.
+
